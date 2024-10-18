@@ -2,7 +2,8 @@
 
 **Profº Filipe Chagas**
 
-**Cyber Edux - Turma 2 Matutino**<b>
+**Cyber Edux - Turma 2 Matutino**
+<br>
 **Cuiabá - MT**
 
 Material desenvolvido na aula do dia 18/10/2024
